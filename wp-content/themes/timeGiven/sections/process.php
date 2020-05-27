@@ -11,6 +11,7 @@
                         </div>
                         <div class="process-description">
                             <?php echo $step['description']; ?>
+                            test
                         </div>
                     </div>
                     <?php $counter++; ?>
