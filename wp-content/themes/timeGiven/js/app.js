@@ -4,7 +4,7 @@ window.onload = function(){
     
     //remove loader after 2500ml
     setTimeout(function(){
-        //loader.style.display = 'none';
+        loader.style.display = 'none';
     }, 2500);
 
     //scroll into view links
